@@ -1,0 +1,15 @@
+{
+  "name": "fitsync-pro-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install-all": "cd backend && pip install -r requirements.txt && cd ../crew_ai_service && pip install -r requirements.txt && cd ../frontend && npm install",
+    "dev": "concurrently \"npm:dev-backend\" \"npm:dev-ai\" \"npm:dev-frontend\"",
+    "dev-backend": "cd backend && source .\\.venv\\Scripts\\activate && uvicorn app.main:app --reload",
+    "dev-ai": "cd crew_ai_service && source .\\.venv\\Scripts\\activate && uvicorn app.main:app --reload --port 8001",
+    "dev-frontend": "cd frontend && npm run dev"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2" 
+  }
+}

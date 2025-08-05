@@ -1,0 +1,10 @@
+# backend/requirements.txt
+fastapi
+uvicorn[standard]
+python-dotenv
+pymongo[srv]  # For connecting to MongoDB, including DNS seedlist support
+passlib[bcrypt]  # For hashing passwords
+python-jose[cryptography]  # For creating and verifying JWT tokens for auth
+httpx  # A modern, async-capable HTTP client to call our AI service
+pydantic-settings # For managing settings from .env file
+pydantic[email]

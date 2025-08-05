@@ -1,0 +1,8 @@
+# crew_ai_service/requirements.txt
+fastapi
+uvicorn[standard]
+crewai
+crewai-tools
+python-dotenv
+langchain-openai
+pydantic[email]

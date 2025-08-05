@@ -1,0 +1,59 @@
+
+
+services:
+  # The Backend Service
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/app:/app/app
+    environment:
+      - DATABASE_URL=mongodb://mongo:27017/
+      - AI_SERVICE_URL=http://ai_service:8001
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      # Add all other required env vars from your backend/.env
+      - DATABASE_NAME=fitsync_pro
+      - SECRET_KEY=a_very_secret_key_for_jwt_tokens_change_this
+      - ALGORITHM=HS256
+      - ACCESS_TOKEN_EXPIRE_MINUTES=30
+    depends_on:
+      - mongo
+      - ai_service
+  
+  # The AI Service
+  ai_service:
+    build: ./crew_ai_service
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./crew_ai_service/app:/app/app
+      - ./crew_ai_service/tools:/app/tools
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      
+  # The Frontend Service
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:5173"
+    volumes:
+      # This ensures that your local code changes are reflected inside the container
+      - ./frontend:/app
+      # This prevents your local node_modules from overwriting the one in the container
+      - /app/node_modules
+    environment:
+      # This is important for Vite's hot-reloading to work inside Docker
+      - VITE_SERVER_HMR_PROTOCOL=ws
+      - VITE_SERVER_HMR_HOST=localhost
+      
+  # The MongoDB Database Service
+  mongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+volumes:
+  mongo-data:

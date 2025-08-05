@@ -1,0 +1,501 @@
+Age,Weight(kg),Height(cm),Neck(cm),Abs(cm),Waist (cm),Hip (cm),Fitness Goal,No_of_days_for_a_week,Injuries
+62,52,195.9,42.8,58.7,60.4,66,Body shape and maintain,5,shoulder pain
+50,58,162,34.4,56.7,59.2,66.5,Cardio fitness,6,no
+36,100,199.8,29.8,58.6,93.8,100.4,Cardio fitness,6,back pain
+20,62,152.7,46,35.4,61.9,106.1,Weight loss,6,shoulder pain
+27,100,185.8,36.8,53.2,76,113.9,Body shape and maintain,7,back pain
+26,118,179.8,33.9,42.5,90.7,68.7,Weight loss,6,knee pain
+48,103,183.3,33.3,25.9,60.8,80.4,Muscle gain,6,knee pain
+35,62,166.9,37.6,28.6,60.5,79,Muscle gain,1,no
+55,94,159.4,37.5,32.2,107.7,77.5,Body shape and maintain,4,shoulder pain
+38,58,177.6,42,50.5,56.7,61.6,Weight loss,5,knee pain
+20,111,197.1,35.4,41.4,71.9,64.4,Muscle gain,3,no
+68,100,170.9,43.9,47,74.2,63.7,Muscle gain,1,shoulder pain
+51,94,173.6,28.8,40.3,83.5,118.9,Muscle gain,5,knee pain
+23,101,190,32,36.1,88.8,83.5,Body shape and maintain,2,no
+69,81,157.7,37.6,29.6,77.8,68.8,Muscle gain,6,shoulder pain
+47,67,163.7,32.4,43,109.2,117.5,Weight loss,3,back pain
+21,118,177,48.5,59.3,58.9,118.7,Weight loss,3,no
+34,59,162.5,34.5,48.7,85.6,68,Weight loss,5,shoulder pain
+25,110,181.8,44.2,28.5,101.6,89.4,Muscle gain,4,no
+25,71,150.4,30.7,51.8,106.2,77.5,Cardio fitness,2,knee pain
+48,113,197.3,34.5,28.6,72.3,70,Weight loss,7,knee pain
+44,45,181.9,30.3,40.6,104.9,91.3,Cardio fitness,3,no
+67,90,175,44,36.2,102.8,62.8,Body shape and maintain,1,no
+51,86,194.5,42.4,58.5,75.2,105.3,Cardio fitness,3,no
+63,74,188,32,40.3,105.2,74.1,Cardio fitness,3,knee pain
+33,93,186.2,47.5,42.2,89.4,113.2,Body shape and maintain,6,back pain
+36,53,166.9,30.2,38.7,80.4,100.1,Muscle gain,4,shoulder pain
+33,65,199.9,29.1,43.4,60.4,108.7,Cardio fitness,3,no
+66,119,165.6,29.7,26.2,96.2,83.9,Muscle gain,4,no
+27,91,162,48,33,91.6,111.2,Weight loss,6,shoulder pain
+21,63,166.9,41.8,52.9,68.1,62.2,Cardio fitness,3,shoulder pain
+64,65,157.1,42.4,25.3,74.7,62,Muscle gain,5,no
+44,101,174.3,40.5,33.2,86.9,119.4,Body shape and maintain,6,shoulder pain
+63,77,159.6,39.9,26.6,78.3,84.5,Cardio fitness,3,shoulder pain
+21,53,154.8,47.5,25.2,99.3,83.8,Muscle gain,3,shoulder pain
+21,102,166.3,49.8,41.4,82.8,103.8,Muscle gain,7,knee pain
+61,63,170,49,46.1,99.9,87.1,Cardio fitness,7,shoulder pain
+42,111,191,44.9,51,67.8,116.6,Body shape and maintain,2,back pain
+48,67,193.2,38.2,42.8,57.8,113.1,Muscle gain,2,back pain
+54,77,162,30.6,42.1,88.6,75.5,Cardio fitness,1,shoulder pain
+50,72,166.1,49.8,35.1,104,81.5,Body shape and maintain,6,no
+57,114,160.8,40.9,38.4,61,77.3,Muscle gain,2,shoulder pain
+47,68,184.9,35.5,48.6,98.3,107.4,Body shape and maintain,1,back pain
+29,47,164.9,28.3,30.7,80.9,105.9,Weight loss,2,no
+44,117,158.3,39.8,59.9,74.5,65.1,Cardio fitness,5,shoulder pain
+59,60,153.4,41.7,39.5,74.8,111.9,Cardio fitness,2,back pain
+65,61,179.5,42.7,35.5,82.7,113.9,Body shape and maintain,5,back pain
+57,88,176.7,29,29.7,69,103.3,Body shape and maintain,5,no
+51,104,194.5,42.7,53,90.3,66,Weight loss,4,back pain
+44,73,186.4,35.9,34.2,72.5,102.4,Muscle gain,3,back pain
+18,105,194.8,29.4,33.2,63.6,110.2,Body shape and maintain,3,shoulder pain
+53,120,178.2,47.3,30.7,59.7,86.7,Body shape and maintain,4,shoulder pain
+50,45,179.7,43.9,54.6,72.5,118.5,Body shape and maintain,3,shoulder pain
+64,73,197.5,40.9,42.2,82.7,69.2,Body shape and maintain,6,no
+36,82,175.9,44.3,31,66.3,102.2,Weight loss,7,no
+58,113,166.2,31,57.9,94.6,65.1,Body shape and maintain,7,back pain
+54,112,196.8,35.9,42.1,80.4,75.2,Muscle gain,6,no
+47,71,161.5,30.3,28.2,78.7,71.7,Cardio fitness,5,no
+64,112,152.7,29.4,42.7,94.5,85.8,Muscle gain,3,shoulder pain
+62,84,190.9,47.9,54.3,55.2,79,Weight loss,3,no
+26,54,198.6,28.7,31.8,61,83.9,Cardio fitness,3,back pain
+18,51,174.5,32.6,37.2,95.6,69.9,Muscle gain,5,knee pain
+61,120,155.5,46.6,58.8,65.8,111.5,Cardio fitness,4,no
+46,64,151.6,42.3,42.9,71.2,98.1,Cardio fitness,4,shoulder pain
+34,113,152.7,49.1,44.7,70.3,108.1,Weight loss,4,no
+51,64,167.3,38.4,26.1,91.4,74.9,Muscle gain,1,knee pain
+66,117,159.9,35.1,52.4,68.3,79.5,Weight loss,7,back pain
+33,80,161.7,32.3,25.9,72.5,67.8,Cardio fitness,1,no
+19,51,196.5,38.6,43.9,57.5,109.1,Weight loss,5,no
+44,49,190.8,37.1,42.7,90.3,94.4,Cardio fitness,7,knee pain
+21,98,160.3,44.8,33.5,95.8,119.9,Muscle gain,4,no
+31,77,172.7,30.1,47,101.9,76.1,Muscle gain,7,knee pain
+50,80,194.6,35.7,40.9,100,65.9,Muscle gain,1,back pain
+19,53,150.1,45,28.6,99.7,93.8,Weight loss,7,back pain
+34,106,168.2,40.1,56.4,106.3,62.2,Cardio fitness,3,shoulder pain
+36,80,152.3,48.1,52.7,91.6,93.4,Muscle gain,4,no
+61,118,178.7,30.8,57.3,66.1,100.4,Muscle gain,3,knee pain
+63,69,155.6,43.2,60,81.9,89,Muscle gain,6,no
+45,98,164.5,28.1,45.8,73.2,91,Body shape and maintain,1,back pain
+58,71,182.5,32.5,59.3,99.9,77.3,Cardio fitness,5,knee pain
+67,76,158.5,39.3,49.5,98.3,118.1,Cardio fitness,4,back pain
+26,111,177.1,32.8,32.8,56.7,69.3,Weight loss,7,back pain
+51,56,170.1,31.8,55.8,75.7,92.4,Weight loss,4,knee pain
+33,89,177.6,35.5,58.6,104.9,76,Muscle gain,1,knee pain
+24,91,152.4,28.8,55.1,103.2,76.1,Weight loss,6,knee pain
+66,73,196.5,31.1,48,90.1,65.8,Weight loss,4,shoulder pain
+35,46,174.8,34.5,36.5,97.5,105.5,Muscle gain,6,no
+46,65,169.8,29.4,25.4,101,61.3,Body shape and maintain,1,shoulder pain
+57,46,178.2,45.9,57.9,70.9,66.3,Muscle gain,4,back pain
+42,103,181,32.7,58.6,108.6,72.8,Muscle gain,2,shoulder pain
+45,79,177.6,32.8,57.9,90.1,71,Cardio fitness,4,knee pain
+26,78,189.2,41.5,42.9,105.4,108.8,Cardio fitness,1,no
+31,111,198.3,36.7,45.1,84.3,83.4,Cardio fitness,1,no
+33,83,188.5,45.8,56.7,76.3,98,Muscle gain,5,no
+60,94,155.5,32,44.4,65.5,64.7,Weight loss,3,back pain
+24,84,161.6,42.6,29.3,101.4,104.1,Muscle gain,2,shoulder pain
+48,118,180.4,45.2,47.7,64.6,73.8,Weight loss,6,back pain
+63,63,183.1,37.6,25.6,81,68.8,Muscle gain,7,back pain
+38,118,156,38.9,28.2,58.2,72.4,Weight loss,4,no
+24,98,153.4,40.2,45.1,79.9,92.8,Body shape and maintain,1,no
+56,91,152.9,35.3,39.2,92.8,101.8,Body shape and maintain,3,back pain
+42,100,151.9,42,49.3,103.1,110.5,Cardio fitness,4,shoulder pain
+62,56,170.3,46.3,33.9,91.7,62.4,Body shape and maintain,3,shoulder pain
+52,49,180,29.1,44.3,98.4,60.6,Muscle gain,5,no
+70,82,190.7,45.8,26.3,79.9,91.4,Muscle gain,5,back pain
+26,105,156.8,29.1,42.2,71.9,104.7,Muscle gain,1,back pain
+42,48,159.7,39.2,45.8,67.1,106.7,Muscle gain,3,knee pain
+18,87,179.5,34.6,47.5,100.2,62.7,Muscle gain,3,back pain
+40,68,195.4,39.6,53.7,83,106.8,Weight loss,4,knee pain
+54,96,157.4,32,53.6,91.7,77.4,Body shape and maintain,2,no
+31,73,169.4,28.6,32.4,98,119,Cardio fitness,2,back pain
+58,71,178.8,46.2,56.8,70.9,91.2,Cardio fitness,4,back pain
+22,114,181.6,41.2,35.8,100.7,109.6,Weight loss,2,no
+31,54,165.5,35.8,44.7,107.3,113.6,Cardio fitness,7,knee pain
+51,60,189.6,31.5,48.2,84.2,73.3,Cardio fitness,4,shoulder pain
+42,118,154.7,45,40.5,94.7,98.9,Body shape and maintain,3,shoulder pain
+47,74,198.3,42.7,42.7,101.7,71.9,Muscle gain,2,back pain
+57,60,153.5,29.1,32.9,94.6,100.9,Cardio fitness,7,back pain
+53,108,167.4,48.5,55.1,96.6,83.6,Body shape and maintain,6,back pain
+23,86,151.9,45.9,55.3,63.2,114.1,Muscle gain,6,shoulder pain
+58,93,195.7,48.3,41.1,57.1,109.8,Body shape and maintain,7,no
+43,51,193.2,38,34.8,77.6,92.4,Body shape and maintain,6,knee pain
+37,84,186.8,43.3,58.4,68.7,72.1,Cardio fitness,2,no
+36,78,176.9,40.5,37.1,87.2,99.8,Weight loss,3,knee pain
+65,46,178.9,31.9,48.3,62.2,110.5,Weight loss,1,knee pain
+65,98,180.3,36.5,36.5,74.9,95.8,Body shape and maintain,2,back pain
+25,55,187.2,34.8,58.3,63.9,86.3,Muscle gain,6,shoulder pain
+24,45,159.1,28.2,45.1,61.8,97.3,Weight loss,3,back pain
+54,80,156.3,44.2,25.3,74.4,61.9,Muscle gain,5,no
+30,96,151.5,31,27.9,55.1,96.5,Weight loss,1,back pain
+47,79,195,49.1,26.4,79.3,99.8,Body shape and maintain,4,back pain
+66,67,156.2,43.3,47.9,107.5,71.7,Muscle gain,5,knee pain
+59,76,171.4,33.5,26,85,87.1,Cardio fitness,5,shoulder pain
+38,75,183.1,32.7,45.9,79.5,72.9,Muscle gain,7,back pain
+29,111,194.6,28.8,39.9,71.5,66.7,Weight loss,3,no
+55,62,182.9,35.4,41.6,108.9,113.7,Cardio fitness,5,shoulder pain
+32,61,183,35.4,31.8,61.9,69.1,Body shape and maintain,2,no
+59,114,155.4,28.3,30.4,82.3,93.1,Cardio fitness,2,no
+64,112,163.3,44.1,31.8,100.1,81.4,Muscle gain,2,shoulder pain
+64,47,165.6,43.3,42.2,97.8,64.3,Muscle gain,4,knee pain
+70,53,173.9,37.5,47.6,92.5,88.2,Muscle gain,5,back pain
+18,82,189.8,43.1,28.9,83.5,70.4,Cardio fitness,5,no
+18,72,161.3,37,33.5,58.6,64,Cardio fitness,7,no
+37,54,195.8,29.5,48.9,93.9,68,Weight loss,5,back pain
+30,77,169.5,29.9,39.2,92.2,106.7,Body shape and maintain,7,shoulder pain
+55,60,184.9,32.6,52.7,73.3,103.1,Weight loss,4,knee pain
+37,51,175.2,39.9,38.4,91,90.7,Weight loss,6,back pain
+19,72,179.5,33.6,25.9,90,99.5,Weight loss,1,back pain
+26,87,154.7,46.6,50.2,58.7,88.2,Body shape and maintain,3,back pain
+50,57,197.5,39.1,44.6,109.4,80.3,Weight loss,4,shoulder pain
+54,78,176.5,31,43.3,105,107.6,Muscle gain,3,knee pain
+53,78,190.5,29.6,51.1,74.5,84.1,Muscle gain,3,shoulder pain
+29,70,179.2,49.3,42.8,105.4,111.3,Weight loss,7,knee pain
+39,119,159.7,45.4,36.8,79.1,93.2,Muscle gain,7,no
+60,80,191.4,33,56.3,94.4,111.5,Weight loss,1,back pain
+33,63,168.8,30.8,55.6,58.1,90.1,Weight loss,1,knee pain
+23,60,191.7,46.2,35.8,79.3,76.4,Muscle gain,1,no
+48,49,164.8,41.8,33.5,109,109.3,Weight loss,5,no
+55,109,158.4,44.4,30.6,103.3,112.4,Cardio fitness,6,knee pain
+23,113,162.4,32.8,45.9,85.8,72,Weight loss,3,no
+27,79,170.9,34.9,35,80.1,95.7,Weight loss,1,no
+42,51,197.7,32.1,45.4,72.6,78.7,Cardio fitness,1,knee pain
+35,106,187,38.6,41.2,64.3,118.7,Body shape and maintain,7,back pain
+35,81,195.9,28.6,36.8,60.9,86.6,Cardio fitness,1,knee pain
+41,84,160.5,45.3,45,102.3,99,Muscle gain,1,knee pain
+51,46,170.2,40.2,45.2,92.5,76.5,Muscle gain,6,back pain
+37,107,199.6,45.8,53.9,88,99.9,Body shape and maintain,7,shoulder pain
+34,47,198.1,47,44.8,71.7,118.9,Muscle gain,4,back pain
+38,113,156.3,33.7,25.7,59.8,109.7,Muscle gain,5,no
+55,66,198.8,34.9,30.9,74.2,82.2,Muscle gain,1,back pain
+52,77,172.9,37.6,27.2,62.4,119,Cardio fitness,5,no
+19,82,188.5,45.3,36.2,64.7,74,Muscle gain,7,shoulder pain
+67,99,198.4,28.2,57.6,104.7,106.6,Muscle gain,1,shoulder pain
+56,108,176.4,33.4,59.9,101.8,118.5,Muscle gain,2,no
+47,114,190,43.1,30.4,86.5,73.5,Cardio fitness,1,knee pain
+22,113,189.5,41,52.8,58.1,117.8,Weight loss,1,knee pain
+41,116,186.6,48.7,52.5,98.2,73,Body shape and maintain,6,knee pain
+53,119,198.1,35.6,29.3,55.3,107.9,Body shape and maintain,7,no
+18,115,168.9,28.1,52.8,104.7,106.9,Muscle gain,4,no
+68,120,187.9,42.3,44.9,100.9,62.5,Muscle gain,2,shoulder pain
+25,61,195.9,29.9,40.6,81.9,90,Weight loss,1,shoulder pain
+70,63,198,35.6,31.4,85,105.9,Muscle gain,4,shoulder pain
+42,96,190.6,39.8,48.3,78.6,83.5,Muscle gain,5,back pain
+31,63,189.6,49.5,53.6,57,76.8,Body shape and maintain,5,shoulder pain
+59,57,167.3,46.4,35.5,61.5,114.9,Weight loss,4,knee pain
+32,108,151.2,29.6,50.7,72.7,96.7,Body shape and maintain,2,back pain
+36,48,176.5,40,27.2,65.9,80.9,Body shape and maintain,4,no
+52,76,191.9,40.2,32.7,93.8,112.5,Cardio fitness,7,knee pain
+42,46,169,38.1,35.1,63.1,80.1,Weight loss,7,no
+35,81,193.4,37.9,32,61.4,97.5,Muscle gain,3,back pain
+26,118,160,48.9,53.5,109.6,76.3,Weight loss,1,back pain
+69,80,162.1,39.1,55.3,94,69.9,Cardio fitness,1,shoulder pain
+24,105,156,28.5,55.5,73.4,119.5,Muscle gain,6,no
+66,119,188.8,28.4,42.1,108.5,106,Cardio fitness,1,shoulder pain
+39,45,190,36.7,27.9,83.9,85.3,Weight loss,1,no
+25,88,150.7,38.4,39.6,75.1,70.3,Cardio fitness,3,shoulder pain
+57,119,174.1,29,41.9,101.9,104,Body shape and maintain,7,back pain
+54,103,184.4,32.6,26.9,66.6,119,Weight loss,6,shoulder pain
+64,118,155.3,32,30.5,105.8,93.7,Weight loss,6,back pain
+47,63,156.4,46.6,35.8,56.2,115.2,Cardio fitness,4,knee pain
+22,74,170.4,37.5,41,87,78.3,Cardio fitness,3,back pain
+42,72,180.9,37.7,25.4,96.1,101.2,Body shape and maintain,5,shoulder pain
+23,83,184.1,39.6,54.4,79.9,65.7,Body shape and maintain,5,knee pain
+36,87,190.3,36.7,35.5,98.1,72.2,Cardio fitness,6,knee pain
+57,89,181.8,49.6,33.1,61.1,89.4,Cardio fitness,6,no
+62,116,191.3,39.6,57,104.1,116.6,Body shape and maintain,4,back pain
+56,93,182.7,29.2,30.1,56.3,117.2,Muscle gain,7,back pain
+60,94,173.5,48.3,34.7,108.3,112.5,Weight loss,7,shoulder pain
+21,69,178.4,30.4,44.5,85.9,104,Muscle gain,2,knee pain
+67,102,160.7,44.2,55.9,61.9,85.5,Body shape and maintain,2,back pain
+52,63,165.1,40.1,47.6,105.8,110.8,Muscle gain,7,back pain
+51,80,176,48.3,36.1,64.1,118.7,Weight loss,4,knee pain
+29,78,153.9,40.5,25.4,66.5,92.8,Muscle gain,1,shoulder pain
+47,89,188.8,30.6,38.8,64.9,89.7,Weight loss,1,knee pain
+58,51,170,31.2,42.2,106.4,79.5,Cardio fitness,6,knee pain
+57,84,152.5,42.6,46.1,68.8,74.2,Body shape and maintain,4,back pain
+48,118,193.1,36.1,49,60.1,90.2,Body shape and maintain,3,no
+59,105,197,47.2,43.8,109.5,82.2,Cardio fitness,1,no
+33,64,199.7,31.9,59.3,98.8,110.3,Weight loss,1,back pain
+27,107,191.8,34,44.5,55.2,86.2,Weight loss,4,no
+27,62,185.5,46.6,26.8,83.4,73.5,Body shape and maintain,4,no
+23,74,175.3,39.7,28.5,87.4,64.4,Weight loss,1,back pain
+62,66,175.9,44.3,39.8,79.6,101.7,Weight loss,1,knee pain
+22,81,177.2,41.3,28,86.6,117.7,Muscle gain,6,no
+57,65,183.8,49.1,37.1,74.5,72.9,Cardio fitness,6,back pain
+30,48,192,38.8,51.5,100.6,111,Muscle gain,2,back pain
+21,74,187.2,36.8,59.5,93,76.4,Weight loss,4,knee pain
+49,62,174,49.5,59.5,60.2,103.1,Weight loss,2,shoulder pain
+42,109,165.3,29,29.1,55.6,103,Muscle gain,6,back pain
+62,96,150.8,33.2,51.1,63.5,90.5,Muscle gain,5,knee pain
+27,92,174.1,44.4,39.5,65.1,100.1,Cardio fitness,4,back pain
+45,107,190.9,49.3,39.9,61.6,77.4,Weight loss,1,shoulder pain
+35,50,162.8,44.1,49,69.1,86.7,Cardio fitness,2,back pain
+25,119,160.6,38.2,51.5,83,101.5,Cardio fitness,6,knee pain
+31,113,166.5,37.6,36.5,100.7,104.7,Body shape and maintain,2,knee pain
+55,66,190.8,31.9,35.7,106.6,81.1,Cardio fitness,1,no
+25,49,160.4,36.5,43.6,57.5,90.9,Body shape and maintain,4,knee pain
+22,66,196.7,46.6,35.3,87.1,107.4,Body shape and maintain,4,back pain
+36,82,165.5,49.2,31.8,70,99.4,Body shape and maintain,2,shoulder pain
+67,105,175,34.7,32.7,75.4,115.4,Weight loss,7,back pain
+28,55,155.7,48.9,57,67.3,114.4,Muscle gain,4,knee pain
+67,47,152.2,40.9,50.6,108.8,74,Cardio fitness,1,no
+34,79,178.2,44.6,49.8,77.5,67.1,Muscle gain,3,no
+30,64,167.4,33.6,41.5,56.9,63.5,Cardio fitness,1,knee pain
+22,56,158,31,30.6,55.5,115.4,Weight loss,3,back pain
+28,84,199.9,40.2,28.1,101.7,117.2,Muscle gain,3,no
+39,60,159.3,31.8,53.9,91.1,62.8,Weight loss,4,no
+41,65,191.1,28.5,59.8,88.2,84.5,Weight loss,6,back pain
+58,77,161.3,37,48.4,71.8,98.4,Cardio fitness,3,knee pain
+24,77,196.4,39.3,45.5,95.3,70.1,Body shape and maintain,1,knee pain
+65,75,182.2,38.5,59.5,67.9,117.3,Weight loss,1,shoulder pain
+23,111,165.4,37.2,42.6,67.4,99.8,Cardio fitness,4,no
+47,113,183.3,40.2,26.7,59.8,93.4,Cardio fitness,3,knee pain
+26,105,173.2,44.5,25,105.2,115.6,Body shape and maintain,4,back pain
+33,66,197.6,46.2,32,57.8,90.8,Weight loss,7,back pain
+56,95,162.2,39.2,31.3,109.4,74.4,Muscle gain,3,back pain
+55,120,162.4,49.5,28.7,59.9,66.7,Cardio fitness,4,back pain
+29,74,159.2,37.8,46.1,93.2,62.9,Weight loss,7,knee pain
+31,87,189.4,33.7,59.7,95,92.7,Muscle gain,7,back pain
+22,45,176.4,30.2,33.8,102.8,61.2,Body shape and maintain,3,no
+34,100,154.1,31.5,36.2,84.6,77.7,Body shape and maintain,5,knee pain
+42,85,193.5,29.6,43.1,63.9,95.8,Weight loss,5,back pain
+30,86,164.4,36.2,49.4,76.4,82.5,Weight loss,3,shoulder pain
+64,61,176.2,37.1,49.7,73.7,103.7,Weight loss,7,knee pain
+48,73,172.4,40.2,55.2,78.5,118.4,Weight loss,7,knee pain
+25,89,196.2,41.7,51.4,74.3,103.9,Muscle gain,1,knee pain
+22,87,197.3,48.4,51.5,70,110.4,Cardio fitness,6,no
+55,111,195.3,42.6,34,108.5,116.3,Weight loss,4,shoulder pain
+58,114,193,47.4,31.2,96.8,67.5,Body shape and maintain,7,knee pain
+69,88,199.5,41,36.2,91.8,93.3,Body shape and maintain,6,back pain
+37,58,191.5,34.3,53.4,71.2,109.3,Cardio fitness,4,back pain
+56,62,150.3,36.4,38,103.9,100.7,Cardio fitness,3,back pain
+40,68,181.5,45.7,46.8,83.9,81.5,Weight loss,4,knee pain
+27,120,153,28.7,52.9,88,66.4,Weight loss,4,knee pain
+45,120,154.7,49.9,31.9,109.1,75.2,Body shape and maintain,1,shoulder pain
+51,108,168.1,35.1,27.4,78.4,103.2,Weight loss,2,knee pain
+37,112,155.5,34.3,36.6,74.6,115.1,Muscle gain,1,shoulder pain
+45,67,192.1,28.1,52,76,88.4,Muscle gain,2,back pain
+32,62,170.5,37.3,34.3,105.3,105.3,Muscle gain,4,no
+21,58,185.6,41.2,31.3,91.1,93.5,Body shape and maintain,6,back pain
+68,84,154.9,36.5,51.5,63,108.9,Muscle gain,2,shoulder pain
+60,120,172.5,35.7,28.2,105.8,61.8,Cardio fitness,7,shoulder pain
+18,45,162.3,45.2,35.2,59,109.6,Weight loss,2,no
+42,92,164.3,29.1,57.4,59.3,73.8,Body shape and maintain,2,back pain
+45,69,171.7,44.7,54.4,101.7,60.6,Body shape and maintain,4,back pain
+18,108,177.1,44.2,53.7,106.6,108,Body shape and maintain,7,no
+29,120,152.3,38.9,59.8,104.4,104.4,Cardio fitness,1,shoulder pain
+33,113,155.1,48.5,35.3,99.4,70.8,Body shape and maintain,5,knee pain
+68,92,196.2,46.3,54.1,80,102.8,Weight loss,5,no
+43,77,173.6,33.1,58.5,75,86.4,Muscle gain,4,no
+45,79,158.3,44,27.9,100.8,115.1,Body shape and maintain,4,no
+50,84,172.9,31.6,33.6,58.1,110.3,Weight loss,5,knee pain
+38,118,186.4,42.2,48.5,73.9,71.3,Cardio fitness,2,knee pain
+30,110,152.2,36.5,58.3,55.6,79.7,Weight loss,5,back pain
+60,111,191.9,48.2,56.1,107.8,89.1,Cardio fitness,4,back pain
+62,98,186.5,43.2,57.6,74.2,85.7,Cardio fitness,6,back pain
+23,67,151,33.5,44,66.3,95,Muscle gain,3,knee pain
+55,77,170.3,28.9,55.7,88.9,111.3,Weight loss,6,knee pain
+63,88,163.9,40.5,29.8,107.9,101.9,Body shape and maintain,4,knee pain
+34,92,165.1,48.5,51.3,88.8,85.3,Muscle gain,1,no
+63,65,195.9,42.1,45.5,104.7,69.6,Cardio fitness,1,back pain
+56,68,188.3,37.6,53.7,102.7,101.3,Body shape and maintain,2,shoulder pain
+37,110,187.1,42.8,51.7,78.2,72.7,Cardio fitness,1,back pain
+27,101,194.4,38.7,27.4,71.9,112.4,Body shape and maintain,2,no
+54,111,189.3,30.8,39.4,63.1,109.7,Muscle gain,5,knee pain
+70,68,182.8,36.9,54.1,87.4,110.2,Body shape and maintain,4,shoulder pain
+31,101,175.9,41.5,41.9,72.9,112,Body shape and maintain,5,shoulder pain
+43,71,199.7,35.8,45.7,77,89,Body shape and maintain,6,no
+47,117,174.9,35.6,49.4,101.5,69.9,Body shape and maintain,7,no
+18,119,169.3,43.2,58.9,93.4,81,Cardio fitness,3,no
+44,94,150.1,33.4,33.2,58.7,83.9,Cardio fitness,3,knee pain
+69,82,150.3,31.4,37.4,109.7,119.8,Body shape and maintain,6,back pain
+48,111,153.4,49.3,28.2,70.3,96.6,Cardio fitness,6,back pain
+30,77,155.3,37.1,27.2,106.4,69.1,Body shape and maintain,3,shoulder pain
+65,113,195.8,34.9,47.8,75.7,106.5,Muscle gain,2,back pain
+53,109,173,49.3,36.2,59.7,112.7,Cardio fitness,3,shoulder pain
+28,78,194.6,42,43.7,65,119,Cardio fitness,5,back pain
+30,103,188.2,38.1,26.5,55.9,114.4,Weight loss,4,back pain
+45,68,189.5,44.9,56.6,85.5,80.5,Muscle gain,3,knee pain
+39,81,189,37.4,51.3,61.6,70.8,Body shape and maintain,5,no
+69,63,151.9,31.5,43.1,105.1,110.7,Weight loss,7,knee pain
+29,118,164.6,48.7,26.3,103.6,90.9,Body shape and maintain,2,shoulder pain
+66,98,181.1,32.4,46.1,96.8,104.8,Cardio fitness,6,back pain
+26,68,154.4,44,33.1,70.6,119.2,Weight loss,5,knee pain
+58,117,175.6,47.1,47.6,66.7,73.2,Weight loss,5,no
+48,58,186.8,30.4,41,77.6,115.2,Body shape and maintain,1,shoulder pain
+68,113,183.5,30.2,42,57.8,71.5,Body shape and maintain,5,no
+37,65,198.9,42.3,38.1,98,82.7,Weight loss,1,no
+50,110,197.2,42.7,37.2,98.9,110.9,Muscle gain,6,shoulder pain
+37,71,171.6,28.4,32.6,55.8,79.5,Weight loss,4,back pain
+59,76,176,42.9,49.1,56.8,77.2,Weight loss,6,shoulder pain
+25,81,152.9,48.4,25.3,88.2,119.5,Muscle gain,2,back pain
+69,112,174.3,40.2,43.3,92.3,71.3,Muscle gain,3,back pain
+41,50,152.7,36.1,27.2,74.9,71.4,Muscle gain,6,no
+54,67,166.8,31.7,31.5,60.4,83.1,Body shape and maintain,5,shoulder pain
+55,48,179.5,47.7,42.5,67.9,90.5,Muscle gain,4,back pain
+33,87,175.5,33.7,42.8,95.2,117.4,Muscle gain,7,back pain
+23,65,170.7,48,25.6,93.2,107,Cardio fitness,1,back pain
+70,100,183.9,42.3,39.2,77.2,116,Weight loss,1,shoulder pain
+64,77,167,41.4,31.4,79.6,112.8,Cardio fitness,7,shoulder pain
+26,101,150.3,46.8,50.2,74.6,95.5,Weight loss,4,back pain
+30,96,197.7,33.5,33.1,98.5,75,Body shape and maintain,1,no
+24,68,184.6,37.7,55.3,89,102.9,Body shape and maintain,6,no
+61,48,193.5,35.2,46.9,97.1,114.5,Cardio fitness,5,knee pain
+25,118,194.1,40.9,33.2,74.5,71.4,Weight loss,2,no
+32,98,153.6,31.4,52.9,73.8,110.1,Muscle gain,7,knee pain
+20,58,195.5,33.4,50,69.7,102.7,Body shape and maintain,6,no
+63,116,190.1,31,43,87,106.3,Weight loss,1,knee pain
+18,120,178.3,35.2,32.7,107.2,95.9,Body shape and maintain,4,back pain
+49,88,174.7,49.3,49.2,79.6,61.6,Muscle gain,4,shoulder pain
+35,115,158.7,36.7,43.1,84.5,61.4,Body shape and maintain,7,knee pain
+58,91,176.8,34.3,46.4,94.5,79.3,Body shape and maintain,4,shoulder pain
+58,90,152.8,31.2,29.8,58,101,Muscle gain,7,knee pain
+22,71,166,32.8,30.5,99.3,85.6,Muscle gain,7,back pain
+59,53,193.1,42.7,26.3,62.9,101.7,Weight loss,3,back pain
+24,91,197.8,28.9,44.9,103.6,100.8,Muscle gain,5,knee pain
+38,83,177.6,49.9,47,60.4,113.1,Cardio fitness,6,shoulder pain
+18,109,192,44.9,51,105.7,71.7,Weight loss,1,knee pain
+45,85,166.1,31.1,53.8,92.7,100.2,Body shape and maintain,6,no
+58,104,187.9,48.1,30.9,90.4,100.4,Body shape and maintain,1,knee pain
+55,47,160.4,28.8,56,90.3,95.5,Muscle gain,1,no
+39,51,158.5,34.3,40.2,93.4,100.6,Cardio fitness,4,no
+41,76,177.8,33.6,26.4,109.4,103.5,Weight loss,4,no
+42,73,185.3,42,33.9,105.5,68.6,Cardio fitness,6,shoulder pain
+64,114,182,47.1,32.5,71.7,78.7,Muscle gain,2,back pain
+37,86,170.2,48.5,59.8,88.6,112.4,Body shape and maintain,1,no
+32,100,197.9,34.6,30.4,55.1,72.2,Muscle gain,3,knee pain
+51,118,184.7,33.8,58.3,103.4,84.1,Cardio fitness,1,no
+20,118,170.1,28.6,43.1,98.9,114.3,Cardio fitness,5,no
+57,115,165.8,44.7,46.7,82.1,107,Weight loss,2,back pain
+30,110,158.6,39.3,27.1,101.5,97.9,Weight loss,4,shoulder pain
+37,111,173.4,49.3,36.4,77.1,74,Muscle gain,1,shoulder pain
+20,45,184.6,39.2,45.2,69.4,98.7,Muscle gain,2,knee pain
+55,113,155.8,40.8,41.9,69.3,71.2,Muscle gain,6,shoulder pain
+37,59,197.4,48.5,47.7,94.8,109.5,Muscle gain,2,shoulder pain
+43,84,153.1,42.5,58.1,60.1,70.9,Cardio fitness,5,no
+48,92,196.9,39.3,51.2,74.9,94.8,Cardio fitness,6,back pain
+48,59,166.5,28.2,42.1,100.4,88.3,Muscle gain,2,shoulder pain
+27,69,166.2,40.8,33.4,91.8,93.6,Body shape and maintain,3,knee pain
+43,58,160.3,28.6,48,94.8,116.5,Muscle gain,7,back pain
+30,100,183.8,40.6,50,85.5,97.2,Cardio fitness,7,no
+61,48,186.8,30.8,33.9,71.3,96.3,Cardio fitness,5,shoulder pain
+55,107,189.2,31,50.2,85.5,92.5,Muscle gain,5,no
+53,99,166.3,41.3,59.4,60,63.7,Muscle gain,1,shoulder pain
+49,61,164.9,48.4,25.1,87,105.9,Body shape and maintain,3,back pain
+65,76,157.5,46.5,25.6,60,82,Muscle gain,2,no
+21,66,171.9,32.5,53.2,55.5,69.4,Cardio fitness,5,shoulder pain
+67,99,199.9,38.3,28.3,61.8,61,Cardio fitness,5,no
+41,112,177.8,28.9,37.5,78.3,109.6,Cardio fitness,6,knee pain
+63,91,199,31.8,31.6,82.7,62.9,Cardio fitness,1,shoulder pain
+66,94,180.8,40.8,27.8,107.5,80.2,Muscle gain,5,no
+59,98,188.1,43.7,32.8,81.4,65.1,Cardio fitness,7,back pain
+50,65,186.7,33.4,26,97.8,96.4,Cardio fitness,7,shoulder pain
+62,120,152.9,49.5,35.2,56.5,72.2,Weight loss,2,no
+59,96,163.5,49.7,45.4,71.3,73.6,Body shape and maintain,2,back pain
+23,94,196.9,32.1,26.6,65,75.9,Weight loss,1,no
+69,90,164.1,29.2,57.3,109.2,71.6,Muscle gain,3,no
+43,104,191.5,41.3,56.1,88.6,60,Cardio fitness,4,no
+66,61,194,39.7,42.2,76.7,78.3,Muscle gain,7,back pain
+66,64,159.6,49.8,36.2,73.9,81.3,Muscle gain,5,shoulder pain
+62,98,165.3,43.8,25.9,91.7,71.6,Weight loss,3,knee pain
+22,51,171.5,37.9,34.9,63,67.5,Body shape and maintain,2,knee pain
+59,68,168.4,37.6,40.3,101.9,118.5,Muscle gain,7,shoulder pain
+30,84,194.7,30.4,57.8,56,87.3,Muscle gain,2,knee pain
+27,120,165,36.2,57.8,69.8,112,Cardio fitness,1,no
+51,72,171.6,43.2,55.9,99.6,66.2,Cardio fitness,5,shoulder pain
+65,90,198.9,34.5,35.2,82.5,61.3,Weight loss,3,back pain
+34,107,178.7,44.2,25.4,71.4,75.8,Cardio fitness,4,knee pain
+65,53,175.7,40.2,31.2,65,71.3,Weight loss,2,back pain
+68,96,191.2,39.1,47.5,100.4,93.3,Body shape and maintain,5,shoulder pain
+45,61,176.8,44.2,49.9,91.5,104.3,Muscle gain,3,no
+55,80,180.8,35.7,35.2,68.7,83.6,Weight loss,6,back pain
+25,89,181.9,48.4,41.2,109.5,88.9,Muscle gain,3,no
+45,57,174.4,34.6,57.9,101.5,98.8,Cardio fitness,6,back pain
+31,102,174.9,45.9,48.3,106.4,115.8,Cardio fitness,4,back pain
+40,56,168.6,43.2,36.9,63.3,66.9,Muscle gain,1,shoulder pain
+61,85,199,46.7,35.7,67,76,Body shape and maintain,7,shoulder pain
+25,104,159,33.9,51.9,73,99.6,Muscle gain,4,no
+50,82,157,28.5,38.7,96.5,110.7,Muscle gain,5,shoulder pain
+36,120,150.9,31.8,52.9,82.7,96.4,Cardio fitness,2,knee pain
+38,108,177.3,47.8,35.9,62.9,112.3,Muscle gain,1,back pain
+19,76,199.2,34.4,28.9,70.4,106.6,Weight loss,6,knee pain
+42,74,197.6,36,51.1,90.3,98.7,Body shape and maintain,5,knee pain
+67,111,168.6,34.2,44.1,79.3,99.3,Body shape and maintain,3,shoulder pain
+43,70,195.6,37.8,35.9,74.7,84.8,Body shape and maintain,1,back pain
+36,53,174.2,49.1,55.8,68.9,79.9,Muscle gain,5,knee pain
+45,72,163,39,34.2,87.5,86.6,Muscle gain,6,shoulder pain
+32,48,169.9,31.3,51.5,64.7,115.1,Body shape and maintain,3,shoulder pain
+57,63,190.5,41.3,34.2,57.9,106.1,Cardio fitness,2,back pain
+56,67,181.1,35.6,51.5,97.9,113.3,Body shape and maintain,6,no
+62,113,154.9,31.5,43.3,55.2,92,Cardio fitness,1,back pain
+62,103,181.4,33,42.1,88.3,82.1,Body shape and maintain,6,no
+58,119,193.3,40,47.7,109.8,64.7,Weight loss,3,back pain
+39,88,185,44.7,57.8,58.8,106.5,Body shape and maintain,3,back pain
+21,102,194.4,28.3,55.7,102.7,65.6,Body shape and maintain,4,knee pain
+18,96,185,29.5,50.3,109.5,82,Muscle gain,7,knee pain
+25,46,170.6,43.1,42.7,60.2,109.5,Muscle gain,4,no
+24,61,157.2,33.9,36.7,86.9,97.2,Muscle gain,6,back pain
+50,69,158.8,42.4,53.1,63.8,68.6,Muscle gain,1,back pain
+57,103,184.1,45.9,37.8,73.2,72.8,Cardio fitness,6,no
+59,76,196.3,32.6,42.8,81,80.3,Muscle gain,5,back pain
+58,72,163.8,28.9,40,55.9,76.8,Cardio fitness,6,knee pain
+59,88,158,39.4,33,100.7,98.7,Cardio fitness,1,back pain
+44,92,183.2,42.7,36.8,62.4,96.2,Body shape and maintain,6,no
+62,69,183.3,37.5,55.6,58.2,73.5,Cardio fitness,1,no
+70,81,199.2,31.5,28.5,101.4,89.2,Body shape and maintain,4,no
+47,63,191,32.3,56.9,90.8,112.4,Muscle gain,7,shoulder pain
+65,61,163.4,34.2,52.1,74.5,118.4,Cardio fitness,6,shoulder pain
+33,104,164.7,46.9,30.6,68.8,90.6,Cardio fitness,1,no
+29,99,165,29.4,39.2,91.6,117.2,Weight loss,6,knee pain
+27,45,170.7,38.1,31.9,66.7,88.4,Cardio fitness,1,back pain
+18,63,157.2,42.7,58.6,69.6,108.5,Weight loss,5,back pain
+19,105,198.7,39.6,59.2,73.9,87.7,Weight loss,7,knee pain
+49,54,172.4,38.6,35.4,67.5,110.6,Weight loss,7,knee pain
+18,81,161.8,45.9,58.7,57.2,74.6,Cardio fitness,7,shoulder pain
+41,47,159.9,36.4,26.3,71.4,74.6,Weight loss,6,shoulder pain
+27,79,193.1,35.1,25.1,60.2,84,Body shape and maintain,1,no
+57,93,182.7,28,51.1,61.2,75,Cardio fitness,3,back pain
+69,104,193.8,29.3,58.9,62.6,88.3,Body shape and maintain,1,shoulder pain
+67,66,195.4,37.6,33.6,62.4,102,Weight loss,6,no
+69,70,167,37.6,57.3,72.7,99.3,Body shape and maintain,7,knee pain
+49,89,194.5,47.8,28.6,75.7,94.6,Weight loss,2,back pain
+59,96,154.3,42.8,53.2,96.1,68.2,Body shape and maintain,5,shoulder pain
+67,89,199.7,29,36.9,94.7,104.1,Weight loss,4,knee pain
+22,99,151.3,42.2,37,57.2,107.9,Weight loss,4,knee pain
+44,100,194.5,28.3,46,98.3,118.2,Cardio fitness,1,knee pain
+63,72,192.3,47,33.4,73.6,116.4,Muscle gain,1,no
+68,67,152.7,37.1,35.6,84.1,81.6,Muscle gain,5,back pain
+30,51,179.2,42.7,56.2,75,105.3,Cardio fitness,2,knee pain
+45,72,197.9,30.8,40.7,100.2,113.7,Weight loss,6,no
+35,54,151.5,48.1,51.1,103.7,87.6,Muscle gain,2,knee pain
+43,57,163.4,30.2,45.2,103.9,69.3,Cardio fitness,4,knee pain
+18,79,189.5,29.7,27.2,59.1,71.7,Cardio fitness,2,back pain
+55,50,199.8,34.1,42,55.5,78.5,Body shape and maintain,2,shoulder pain
+31,109,190,29.8,30.5,104.6,105.5,Cardio fitness,3,no
+28,52,193.7,45.9,58.2,66.4,67.6,Cardio fitness,5,shoulder pain
+68,100,171.6,47.8,57.2,104.8,82.6,Body shape and maintain,7,knee pain
+33,47,193.4,30.4,51.7,67.5,83.9,Muscle gain,6,knee pain
+35,65,173.9,36.1,49.5,55.9,112.3,Weight loss,3,back pain
+48,106,170.6,41.8,49.9,68.7,111.8,Body shape and maintain,7,knee pain
+66,101,171.7,46.9,27.5,88.1,66.6,Cardio fitness,1,knee pain
+64,118,156.1,31.4,48,90.3,82.2,Weight loss,7,shoulder pain
+39,63,178.7,38.1,28.8,59.4,75.6,Cardio fitness,4,knee pain
+57,72,177.6,30.4,55.3,78.5,95,Cardio fitness,5,no
+37,97,152.6,45.5,39.5,59,73.3,Cardio fitness,1,no
+41,103,174.8,31.7,54.8,84.1,109,Weight loss,5,knee pain
+34,63,165.2,44.9,56.6,64,99.2,Cardio fitness,7,knee pain
+42,90,164,42.1,47,98.3,100.3,Cardio fitness,7,knee pain
+28,82,175.6,47.4,29.3,73.3,61.9,Body shape and maintain,2,knee pain
+63,99,161.6,31.7,49.4,64.5,90.7,Muscle gain,4,shoulder pain
+33,73,171.4,41.4,41.1,85.6,68.7,Muscle gain,3,no
+37,58,151.8,48.9,43.3,68.4,64.4,Body shape and maintain,1,shoulder pain
+24,113,168.9,33.8,54.2,94.9,101.4,Cardio fitness,5,no
+44,109,194.4,31.7,47.5,91.9,64.5,Cardio fitness,2,back pain
+66,57,177.1,35.3,45.4,76.8,117.1,Muscle gain,7,shoulder pain
+55,70,193.1,33.3,50.7,69.3,112.1,Muscle gain,2,no
+27,64,197.5,30.6,39.5,62.4,94.8,Body shape and maintain,6,shoulder pain
+25,79,171.1,47.2,33.9,89.8,97.5,Muscle gain,5,knee pain
+60,112,177.5,37.1,47.6,94.5,110.7,Body shape and maintain,5,shoulder pain
+63,68,185.9,48,47.1,77.6,94.4,Body shape and maintain,5,shoulder pain
