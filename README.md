@@ -98,7 +98,7 @@ cd crew_ai_service
 python -m venv .venv
 
 # On Windows
-.\.venv\Scriptsctivate
+.\.venv\Scripts\activate
 
 # On Mac/Linux
 source .venv/bin/activate
@@ -113,7 +113,7 @@ cd backend
 python -m venv .venv
 
 # On Windows
-.\.venv\Scriptsctivate
+.\.venv\Scripts\activate
 
 # On Mac/Linux
 source .venv/bin/activate
